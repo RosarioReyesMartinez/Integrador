@@ -6,7 +6,7 @@ package proyectointegraodr;
 import java.util.Scanner;
 /**
  *
- * @author Josee
+ * @author asa
  */
 public class ProyectoIntegraodr {
 
